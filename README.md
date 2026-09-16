@@ -108,4 +108,4 @@ For suggested repository metadata and a pre-publication privacy checklist, see [
 
 ## License
 
-No license has been selected yet. Add a license before inviting reuse or accepting contributions. GitHub's license picker can generate common choices such as MIT or BSD-3-Clause.
+MIT License
