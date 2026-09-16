@@ -1,0 +1,24 @@
+# Subject data and generated results
+data/
+outputs/
+tasc_dmd_outputs/
+*.nii
+*.nii.gz
+*.mat
+*.csv
+
+# Keep small test fixtures if they are added later
+!tests/fixtures/**
+
+# MATLAB-generated files
+*.asv
+*.m~
+slprj/
+codegen/
+*.mex*
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
